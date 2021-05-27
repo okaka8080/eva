@@ -1,0 +1,24 @@
+
+p.mincho {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    padding: auto;
+    color: red;
+}
+p.honbun{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 30px;
+    color: red;
+}
+p.arasuji{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size:20px;
+    color: white;
+}
+p.syoukai{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size:20px;
+    color:white;
+}
+
